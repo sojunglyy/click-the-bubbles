@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-family: 'Mooli', sans-serif;
+  color: black;
+}
